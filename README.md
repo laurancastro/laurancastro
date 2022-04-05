@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurancastro
-- 👀 I’m interested in ... Legaltech, Crypto, web3 and front-end development
+- 👀 I’m interested in ... Legaltech, Crypto,and front-end development
 - 🌱 I’m currently learning ... HTML, CSS & Js
 - 💞️ I’m looking to collaborate on ...several proyects that challenge me!
 - 🎮 Some of my hobbies are... board games, reading, and baking. 
